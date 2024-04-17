@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223067292674",
+    "project_id": "deaf-assistant-ai-app-84d6c",
+    "storage_bucket": "deaf-assistant-ai-app-84d6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223067292674:android:487da1e164f3cdea95531b",
+        "android_client_info": {
+          "package_name": "com.example.deaf_assistant_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBciGLTS0bKheoiIWhTdXiuaxH-L7bDDgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
